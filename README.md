@@ -1,5 +1,3 @@
----
-
 # Property Estimator
 
 ## Description
