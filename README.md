@@ -1,5 +1,3 @@
-Here's a README template for your Property Estimator app:
-
 ---
 
 # Property Estimator
